@@ -6,3 +6,4 @@ Hi
 Hi again!
 Hi again one more time!
 >>>>>>> my-new-branch
+Trying out git fetch
